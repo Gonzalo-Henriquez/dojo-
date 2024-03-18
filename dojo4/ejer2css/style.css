@@ -46,9 +46,18 @@ body{
     background: linear-gradient(136deg, rgba(40, 101, 188, 0.543), rgba(105, 0, 119, 0.795));
     padding: 25px 55px 25px 55px;
     border-radius: 50px;
-
 }
 
 #bt1:hover {
     background: linear-gradient(136deg, yellow, green);
+}
+
+#bt2{
+    text-align: center;
+    background: linear-gradient(136deg, rgba(90, 128, 181, 0.543), rgba(66, 170, 90, 0.795));
+    padding: 25px 55px 25px 55px;
+    border-radius: 50px;
+}
+#bt2:hover {
+    background: linear-gradient(136deg, rgb(130, 30, 30), rgb(31, 70, 31)) ;
 }
