@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    text-decoration: underline wavy black;
+    font-family: sans;
+    font-size: 50px;
+}
+table{
+    margin: auto;
+}
+div.cian{
+    padding: 1px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 70px;
+    margin: 30px;
+    background-color: lightseagreen;
+    color: white;
+    text-align: center;
+    font-family: sans;
+}
+div.rosa{
+    background-color: fuchsia;
+    padding: 1px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 70px;
+    margin: 30px;
+    color: white;
+    font-family: sans;
+}
+div.azul{
+    background-color: rgb(0, 0, 130);
+    padding: 1px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 70px;
+    margin: 30px;
+    color: white;
+    font-family: sans;
+}
+body{
+    background-color: rgb(57, 57, 57);
+}

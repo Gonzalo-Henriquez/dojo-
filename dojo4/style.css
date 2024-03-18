@@ -2,5 +2,14 @@ body{
     text-align: center;
     background: linear-gradient(#000000e2, rgba(0, 0, 160, 0.596)
     );
-    
+}
+#tit{
+    color: rgba(206, 196, 216, 0.586);
+    font-size: 45px;
+}
+p{
+    font-size: 20px;
+}
+h4{
+    font-size: 60px;
 }
