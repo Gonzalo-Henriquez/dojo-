@@ -8,33 +8,37 @@ table{
     margin: auto;
 }
 div.cian{
+    display: inline-table;
     padding: 1px;
     padding-left: 80px;
     padding-right: 80px;
     padding-bottom: 70px;
-    margin: 30px;
+    margin: 100px;
     background-color: lightseagreen;
     color: white;
-    text-align: center;
     font-family: sans;
 }
 div.rosa{
+    display: inline-table;
+    text-align: center;
     background-color: fuchsia;
     padding: 1px;
     padding-left: 80px;
     padding-right: 80px;
     padding-bottom: 70px;
-    margin: 30px;
+    margin: auto;
     color: white;
     font-family: sans;
 }
 div.azul{
+    display: inline-table;
+    text-align: center;
     background-color: rgb(0, 0, 130);
     padding: 1px;
     padding-left: 80px;
     padding-right: 80px;
     padding-bottom: 70px;
-    margin: 30px;
+    margin: 50 px;
     color: white;
     font-family: sans;
 }
