@@ -1,17 +1,21 @@
 .red{
-    height: 150px;
+    height: 200px;
     width: 900px;
-    background-color: red;
+    background-color: rgb(58, 58, 255);
+    margin: 5px;
+    justify-content: space-around;
 }
 .blue{
-    height: 150px;
+    height: 200px;
     width: 900px;
-    background-color: blue;
+    background-color: rgb(255, 58, 58);
+    margin: 5px
 }
 .yellow{
-    height: 150px;
+    height: 200px;
     width: 900px;
-    background-color: yellow;
+    background-color: rgb(255, 255, 58);
+    margin: 5px;
 }
 .container{
     width: 920px;
@@ -21,4 +25,16 @@
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
+}
+.hollo{
+    margin: 10px;
+    border-radius: 20px;
+}
+.grim{
+    margin: 10px;
+    border-radius: 20px;
+}
+.resp{
+    margin: 10px;
+    border-radius: 20px;
 }
