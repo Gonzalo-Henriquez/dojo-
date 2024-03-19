@@ -1,7 +1,7 @@
 .red{
     height: 200px;
     width: 900px;
-    background-color: rgb(58, 58, 255);
+    background: linear-gradient(136deg, rgb(0, 0, 116),black);
     margin: 5px;
     justify-content: space-around;
 }
