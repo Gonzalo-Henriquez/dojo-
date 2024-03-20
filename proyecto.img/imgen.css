@@ -4,27 +4,34 @@
     background: linear-gradient(136deg, rgb(0, 0, 116),black);
     margin: 5px;
     justify-content: space-around;
+    border-radius: 20px;
+    border: 5px solid black;
 }
 .blue{
     height: 200px;
     width: 900px;
     background-color: rgb(255, 58, 58);
-    margin: 5px
+    margin: 5px;
+    border-radius: 20px;
+    border: 5px solid black;
 }
 .yellow{
     height: 200px;
     width: 900px;
     background-color: rgb(255, 255, 58);
     margin: 5px;
+    border-radius: 20px;
+    border: 5px solid black;
 }
 .container{
     width: 920px;
-    background-color: rgb(161, 161, 161);
+    background-color: rgb(61, 61, 61);
     margin: 0 auto;
     padding: 20px;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
+    border-radius: 20px;
 }
 .hollo{
     margin: 10px;
@@ -37,4 +44,8 @@
 .resp{
     margin: 10px;
     border-radius: 20px;
+}
+body{
+    background-color: black;
+
 }
