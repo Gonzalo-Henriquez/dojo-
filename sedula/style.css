@@ -11,7 +11,7 @@
 .azul{
     height: 150px;
     width: 1310px;
-    background: linear-gradient(136deg, rgb(51, 248, 255), black);
+    background: linear-gradient(136deg, rgb(51, 248, 255), rgb(46, 107, 107),black);
     border-top-left-radius:10px;
     border-top-right-radius: 10px;
 }
@@ -26,6 +26,7 @@
     font-size: 50px;
     position: relative;
     top: 70px;
+    left: 15px;
 }
 .lugar{
     font-size: 25px;
@@ -49,4 +50,6 @@
     top: 300px;
     right: 550px;
 }
-
+#bott:hover{
+background-color: rgba(0, 0, 138, 0.418);
+}
