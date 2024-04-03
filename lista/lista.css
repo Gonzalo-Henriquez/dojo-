@@ -40,3 +40,58 @@ body {
 .nav-links li a:hover {
     color:drgb(127, 212, 255)
 }
+#conta{
+    height: 800px;
+    width: 1290px;
+    margin: 5px;
+    background-color: rgb(215, 232, 232);
+    border-radius: 20px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+}
+.azul{
+    height: 150px;
+    width: 1310px;
+    background: linear-gradient(136deg, rgb(51, 248, 255), rgb(46, 107, 107),black);
+    border-top-left-radius:10px;
+    border-top-right-radius: 10px;
+}
+.zote{
+    border-radius: 200px;
+    position: relative;
+    top: 70px;
+    left: 70px;
+    border: 5px solid white;
+}
+.nombre{
+    font-size: 50px;
+    position: relative;
+    top: 70px;
+    left: 15px;
+}
+.lugar{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(61, 61, 61);
+    position: relative;
+    top: 70px;
+}
+.descr{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(61, 61, 61);
+    position: relative;
+    top: 70px;
+}
+#bott{
+    background-color: rgba(200, 200, 200, 0.676);
+    font-size: 20px;
+    border-radius: 20px;
+    position: relative;
+    top: 300px;
+    right: 550px;
+}
+#bott:hover{
+background-color: rgba(19, 19, 179, 0.418);
+}   

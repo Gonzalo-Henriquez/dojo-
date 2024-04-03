@@ -1,0 +1,266 @@
+.box{
+    width: 1100px;
+    height: 900px;
+    background-color: rgb(190, 190, 190);
+    border-radius: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.navbar {
+    background-color: rgb(65, 65, 65);
+    color: #fff;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1100px;
+    height: 85px;
+}
+
+.logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+    margin: 20px;
+}
+
+.nav-links {
+    list-style-type: none;
+    display: flex;
+}
+
+.nav-links li {
+    margin-right: 20px;
+
+}
+
+.nav-links li a {
+    text-decoration: none;
+    transition: color 0.5s ease;
+    color: white;
+}
+
+.nav-links li a:hover {
+    color: rgb(206, 98, 98);
+}
+#bot{
+    background-color: rgb(0, 183, 255);
+    border-radius: 5px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    padding: 10px;
+    transition: color 0.5s ease;
+}
+#bot:hover{
+    color: black;
+}
+#conta{
+    height: 550px;
+    width: 650px;
+    margin: 5px;
+    background-color: rgb(215, 232, 232);
+    border-radius: 20px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+}
+.azul{
+    height: 100px;
+    width: 650px;
+    background: linear-gradient(136deg, rgb(51, 248, 255), rgb(46, 107, 107),black);
+    border-top-left-radius:10px;
+    border-top-right-radius: 10px;
+}
+.zote{
+    border-radius: 200px;
+    position: relative;
+    top: 50px;
+    left: 30px;
+    border: 2px solid white;
+}
+.nombre{
+    font-size: 35px;
+    position: relative;
+    top: 60px;
+    left: 15px;
+}
+.lugar{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(61, 61, 61);
+    position: relative;
+    top: 70px;
+    left: 10px;
+}
+.descr{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(61, 61, 61);
+    position: relative;
+    top: 70px;
+    left: 10px;
+}
+#bott{
+    background-color: rgb(0, 183, 255);
+    border-radius: 5px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    padding: 10px;
+    transition: color 0.5s ease;
+    position: relative;
+    top: 190px;
+    right: 220px;
+}
+#bott:hover{
+background-color: rgba(19, 19, 179, 0.418);
+}   
+#box2{
+    background-color: rgb(215, 232, 232);
+    width: 650px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 5px;
+}
+.Edu{
+    font-size: 30px;
+    position: relative;
+    left: 10px;
+    top: 25px;
+}
+.de{
+    font-size: 15px;
+    position: relative;
+    top: 30px;
+    left: 10px;
+
+}
+.der{
+    font-size: 15px;
+    position: relative;
+    top: 15px;
+    left: 10px;
+}
+.d{
+    font-size: 15px;
+    position: relative;
+    left: 10px;
+}
+#box3{
+    background-color: rgb(215, 232, 232);
+    width: 350px;
+    height: 250px;
+    border-radius: 10px;
+    margin: 5px;
+    position:relative;
+    left: 700px;
+    bottom: 770px;        
+}
+.so{
+    font-size: 22px;
+    position: relative;
+    top: 10px;
+    left: 15px;
+}
+#zoro{
+    border: 2px solid black;
+    border-radius: 100px;
+    position: relative;
+    left: 12px;
+    top: 10px;
+}
+.zoro{
+    font-size: 20px;
+    position: relative;
+    left: 100px;
+    bottom: 62px;
+}
+#bo{
+    position: relative;
+    bottom: 140px;
+    left: 240px;
+}
+#colo{
+    border: 2px solid black;
+    border-radius: 100px;
+    position: relative;
+    bottom: 45px;
+    right: 70px
+}
+.colo{
+    font-size: 20px;
+    position: relative;
+    bottom: 120px;
+    left: 100px;
+}
+#boo{
+    position:relative;
+    bottom: 180px;
+    left: 240px;
+}
+.co{
+    font-size: 26px;
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+#box4{
+    background-color: rgb(215, 232, 232);
+    width: 350px;
+    height: 510px;
+    border-radius: 10px;
+    margin: 5px;
+    position:relative;
+    left: 700px;
+    bottom: 760px;    
+}
+#goku{
+    border: 2px solid black;
+    border-radius: 100px;
+    position: relative;
+    left: 12px;
+    bottom: 50px;
+}
+.Goku{
+    font-size: 20px;
+    position: relative;
+    bottom: 125px;
+    left: 100px;
+}
+#Kratos{
+    border-radius: 100px;
+    border: 2px solid black;
+    position: relative;
+    bottom: 110px;
+    left: 15px;
+}
+.kratos{
+    font-size: 20px;
+    position: relative;
+    bottom: 185px;
+    left: 100px;
+}
+#go{
+    border-radius: 100px;
+    border: 2px solid black;
+    position: relative;
+    bottom: 170px;
+    left: 15px;
+}
+.go{
+    font-size: 20px;
+    position: relative;
+    bottom: 240px;
+    left: 100px;
+}
+#jo{
+    border-radius: 100px;
+    border: 2px solid black;
+    position: relative;
+    bottom: 230px;
+    left: 15px;
+}
+.jo{
+    font-size: 20px;
+    position: relative;
+    bottom: 305px;
+    left: 100px;
+}

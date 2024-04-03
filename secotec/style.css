@@ -1,0 +1,49 @@
+#box1{
+    background-image: url(https://www.sercotec.cl/wp-content/uploads/2018/07/fon2.jpg);
+    width: 1510px;
+    height: 150px;
+    position: relative;
+    right: 8px;
+}
+.reg{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    position: relative;
+    left: 50px;
+    top: 90px;
+}
+.box2{
+    width: 1000px;
+    height: 110px;
+    position: relative;
+    top: 50px;
+    left: 180px;
+}
+.az{
+    background-color: #336699 ;
+    height: 60px;
+    position: relative;
+    bottom: 17px;
+}
+.de{
+    color: rgb(249, 241, 241);
+    position: relative;
+    top: 18px;
+    left: 20px;
+}
+.bl{
+    height: 58px;
+    background-color: rgb(255, 248, 240);
+    position: relative;
+    bottom: 18px;
+}
+.minbox{
+    width: 100px;
+    height: 28px;
+    background-color: rgb(52, 98, 178);
+}
+.co{
+    padding: 2px;
+    color: white;
+}
