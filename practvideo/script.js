@@ -25,10 +25,22 @@ document.addEventListener("DOMContentLoaded", function() {
 const botonsubscribe = document.getElementById("subscribe");
 
 function suscrito(){
-    this.style.backgroundColor = "444444";
+    this.style.backgroundColor = "#444444";
     this.innerText = "Suscrito"
 }
 
-botonsubscribe.addEventListener("click", suscrito);
+function suscrito2(){
+    if(this.value == "Suscrito"){
+        this.style.backgroundColor = "#6200EE";
+        this.innerText = "Suscribete"
+        this.value = "Suscribete"
+    }else{
+        this.style.backgroundColor = "#444444";
+        this.innerText = "Suscrito"
+        this.value = "Suscrito"
+    }
+}
+
+botonsubscribe.addEventListener("click", suscrito2);
 
 });

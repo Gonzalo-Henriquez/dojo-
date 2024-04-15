@@ -1,0 +1,40 @@
+.tiempo{
+    background-color: rgb(70, 122, 255);
+    height: 15%;
+    width: 100%;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+.ciudades{
+    margin: 0 auto;
+    
+}
+
+.lista{
+    display:flex;
+    justify-content: space-between;
+}
+
+.ciudad{
+    text-align: center;
+}
+
+.box1{
+    background-color:gainsboro;
+    width: 10%;
+    position: relative;
+    left: 20%;
+    text-align: center;
+
+}
+
+.box2{
+    background-color:gainsboro ;
+    width: 10%;
+    position: relative;
+    left:32%;
+    text-align: center;
+    bottom: 197px;
+}
