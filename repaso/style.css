@@ -1,0 +1,111 @@
+.box1{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+
+.box2{
+    width: 93%;
+    height: 20%;
+    border: 5px solid black;
+    margin: 2px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+}
+
+.ini{
+    font-size: 35px;
+    position: relative;
+    right: 500px;
+}
+
+.aa{
+    border-radius: 23px;
+    padding-left: 50px ;
+    padding-right: 50px;
+    margin: 20px;
+    font-size: 20px;
+    background-color: green;
+    color: white;
+    transition: color 0.5s ease;
+    transition: background-color 0.5s ease;
+}
+
+.aa:hover{
+    background-color: greenyellow;
+    color: black;
+}
+
+.box3{
+    border: 5px solid black;
+    width: 30%;
+    height: 50%;
+    margin: 10px;
+    text-align: center;
+}
+
+.hol{
+    border-radius: 20px;
+    border: 5px solid black;
+    margin: 5px;
+}
+
+.nam{
+    font-size: 50px;
+}
+
+.box4{
+    border: 5px solid black;
+    width: 60% ;
+    height: 50%;
+    margin: 10px;
+}
+
+.box5{
+    border: 5px solid black;
+    width: 90%;
+    margin: 10px;
+    border-radius: 20px;
+
+}
+
+.btbox{
+    text-align: end;
+
+}
+.bt{
+    margin: 10px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    transition: color 0.3s ease;
+    transform: background-color 0.3s ease;
+}
+
+.bt:hover{
+    background-color: white;
+    color: black;
+}
+
+body{
+    background-color: rgb(122, 122, 122);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.a{
+    padding: 5px;
+}
+
+.niv{
+    border: 3px solid black;
+    width: 740px;
+    padding: 10px;
+    margin: 10px;
+    margin-bottom: 35px ;
+    display: flex;
+    justify-content: space-around;
+
+}

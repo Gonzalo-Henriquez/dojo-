@@ -1,0 +1,202 @@
+.box1{
+    width: 100%;
+    height: 100%;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.tite{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+.bt1{
+    font-size: 35px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgb(170, 163, 255);
+    color: white;
+    transition: background-color 0.3s ease;
+    border: none;
+}
+
+.bt1:hover{
+    background-color: rgb(136, 219, 255);
+}
+
+.bt2{
+    font-size: 35px;
+    padding-left: 30px;
+    padding-right:30px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgb(170, 163, 255);
+    color: white;
+    transition: background-color 0.3s ease;
+    border: none;
+}
+
+.bt2:hover{
+    background-color: rgb(136, 219, 255);
+}
+
+.bt3{
+    font-size: 35px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgb(170, 163, 255);
+    color: white;
+    transition: background-color 0.3s ease;
+    border: none;
+}
+
+.bt3:hover{
+    background-color: rgb(136, 219, 255);
+}
+
+.bt4{
+    font-size: 35px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgb(170, 163, 255);
+    color: white;
+    transition: background-color 0.3s ease;
+    border: none;
+}
+
+.bt4:hover{
+    background-color: rgb(136, 219, 255);
+}
+
+.bt5{
+    font-size: 35px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgb(170, 163, 255);
+    color: white;
+    transition: background-color 0.3s ease;
+    border: none;
+}
+
+.bt5:hover{
+    background-color: rgb(136, 219, 255);
+
+}
+
+.bt6{
+    font-size: 35px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgb(170, 163, 255);
+    color: white;
+    transition: background-color 0.3s ease;
+    border: none;
+}
+
+.bt6:hover{
+    background-color: rgb(136, 219, 255);
+
+}
+
+.bt7{
+    font-size: 35px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgb(170, 163, 255);
+    color: white;
+    transition: background-color 0.3s ease;
+    border: none;
+}
+
+.bt7:hover{
+    background-color: rgb(136, 219, 255);
+}
+
+.bt8{
+    font-size: 35px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgb(170, 163, 255);
+    color: white;
+    transition: background-color 0.3s ease;
+    border: none;
+}
+
+.bt8:hover{
+    background-color: rgb(136, 219, 255);
+}
+
+body{
+    background-color: rgb(62, 87, 135); 
+}
+
+.btbox{
+display: flex;
+flex-wrap: wrap;
+justify-content: end;
+}
+
+.bts{
+    font-size: 35px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgb(170, 163, 255);
+    color: white;
+    transition: background-color 0.3s ease;
+    border: none;
+}
+
+.bts:hover{
+    background-color: rgb(136, 219, 255);
+}
+
+.box3{
+    text-align: center;
+    font-size: 35px;
+    border: 2px solid black;
+    color: white;
+}
+
+.im{
+    margin: 10px;
+    border-radius: 10px;
+    width: 620px;
+    height: 500px;
+}
+
+.box4{
+    display: flex;
+}
+
+.cha{
+    border-radius: 20px;
+    margin: 5px;
+}
+
+.lis{
+    color: white;
+    font-size: 15px;
+
+}
+
+.box6{
+display: flex;
+justify-content: end;
+}
